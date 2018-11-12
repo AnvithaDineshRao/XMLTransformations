@@ -11,5 +11,5 @@ services and an SOA application to process these files
 
 Tryit:  https://www.public.asu.edu/~arao30/Books.xml
 
-Refer requirement document : Read more [here](./README_2.md)
+Refer requirement document : Read more [here](./Xml_req.pdf)
 
